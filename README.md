@@ -2,7 +2,7 @@
 
 Es un repositorio personal que utilizaré para aprender un poco más de **Redux**.
 
-## Cursos de referencia:
+## Cursos de referencia
 
 * [REDUX en Angular con NGRX: Desde las bases hasta la práctica](https://www.udemy.com/course/redux-ngrx-angular/)
 
