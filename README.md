@@ -1,6 +1,6 @@
 # Learning Redux
 
-Es un repositorio personal que utilizare para aprender un poco más de **Redux**.
+Es un repositorio personal que utilizaré para aprender un poco más de **Redux**.
 
 ## Cursos de referencia:
 
