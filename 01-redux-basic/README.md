@@ -10,6 +10,6 @@ Aquí tocaremos temas como:
 * Crear reducers básicos
 * Organización del proyecto y sus ejemplos
 * Manejo del Store
-* Subscripciones de cambios en el Store.
+* Subscripciones de cambios en el Store
 
-Al final de esta sección, tienen el código fuente que pueden descargar para compararlo contra el suyo en caso de ser necesario
+Al final de esta sección, tienen el código fuente que pueden descargar para compararlo contra el suyo en caso de ser necesario.

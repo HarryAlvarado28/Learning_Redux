@@ -1,3 +1,22 @@
+# Sección 4: NGRX - Redux con Angular
+
+Esta sección tiene por objeto hacer una demostración del poder real de manejo centralizado de la información de nuestra aplicación... pero quiero que ustedes mismos lo descubran por su cuenta.
+
+Aquí crearemos una aplicación básica de Angular y tocaremos temas como:
+
+* Creación de una aplicación de Angular de 1 componente y 2 hijos
+* Reforzamiento de temas como EventEmitter, junto a los Inputs y Outputs de Angular
+* Implementar el patrón Redux utilizando NgRx
+* Action creator
+* DevTools
+* Centralizar la lógica en acciones y reducers
+* Dispara acciones
+* Escuchar cambios en el Store
+* Y mucho más
+
+Esta sección nos será de mucha ayuda, ya que nos permite comprender uno de los principales beneficios de trabajar con el patrón Redux
+
+
 # ReduxApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
