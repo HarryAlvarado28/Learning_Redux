@@ -1,3 +1,21 @@
+# Sección 12: Diseño de nuestra aplicación - EffectsApp - ngrx/effects 
+
+## Diseño de la aplicación HttpEffects
+
+Para aprender y comprender los efectos, necesitaremos crear una aplicación que los necesite, ya que no podemos usar efectos si no tenemos implementado un Store de NgRx
+
+Temas puntuales:
+
+* Creación de un proyecto de Angular
+* Módulos de Angular
+* Rutas
+* Consumo de servicios REST
+* Servicios
+* HTML de los componentes
+* Aplicación básica de Angular
+
+Esta sección crearemos una pequeña app de Angular que consuma servicios REST de forma tradicional, para que podamos observar la diferencia cuando ya integremos los efectos
+
 # HttpEffects
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
